@@ -1,0 +1,13 @@
+{
+  "dropDownLabel": "Views",
+  "options": [
+    {
+      "text": "AP Misc PO Header and Detail",
+      "value": "ap-misc-po-header-and-detail"
+    },
+    {
+      "text": "AP Notes",
+      "value": "ap-notes"
+    }
+  ]
+}
