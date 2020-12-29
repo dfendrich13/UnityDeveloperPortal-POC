@@ -33,6 +33,17 @@
           "name": "Accounting Other"
         }
       ]
+    },
+    {
+      "name": "Account Allocation",
+      "path": "frw/account-allocation.md",
+      "description": "Display the allocation tables specified in Fusion, along with the allocation breakdown for each by Branch/Department and the list of breakdown accounts specified in the setup form of the Allocation Table",
+      "categories": [
+        {
+          "id": "3",
+          "name": "Accounting General Ledger"
+        }
+      ]
     }
   ]
 }
