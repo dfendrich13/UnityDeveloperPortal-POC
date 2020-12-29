@@ -3,7 +3,7 @@
   "details": [
     {
       "name": "AP Notes",
-      "path": "/frw/ap-notes.md",
+      "path": "frw/ap-notes.md",
       "description": "Access all detail information, return unit and control numbers for all payable notes within the system",
       "categories": [
         {
@@ -14,7 +14,7 @@
     },
     {
       "name": "AP Misc PO Header and Detail",
-      "path": "/frw/ap-misc-po-header-and-detail.md",
+      "path": "frw/ap-misc-po-header-and-detail.md",
       "description": "Access and view all Miscellaneous Purchase Order information within Fusion",
       "categories": [
         {
@@ -25,7 +25,7 @@
     },
     {
       "name": "Accounting Address Information",
-      "path": "/frw/accounting-address-information.md",
+      "path": "frw/accounting-address-information.md",
       "description": "Access all addresses stored within the Fusion business system",
       "categories": [
         {
