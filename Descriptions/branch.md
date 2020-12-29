@@ -1,5 +1,5 @@
-This is a new description for Branch.
+The Branches API allows users to Get and Update Branch records in Fusion
 
----
+## Overview
 
-And some more **content**. 
+The Branches API in Karmak Unity will allow 3rd Parties to Get and Update information about Branches setup in the Fusion Business System.
