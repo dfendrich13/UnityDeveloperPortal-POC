@@ -1,36 +1,36 @@
 {
-  "LandingDescription": "FRW views description",
-  "Details": [
+  "landingDescription": "FRW views description",
+  "fetails": [
     {
-      "Name": "AP Notes",
-      "Path": "/frw/ap-notes.md",
-      "Description": "Access all detail information, return unit and control numbers for all payable notes within the system",
-      "Categories": [
+      "name": "AP Notes",
+      "path": "/frw/ap-notes.md",
+      "description": "Access all detail information, return unit and control numbers for all payable notes within the system",
+      "categories": [
         {
-          "ID": "1",
-          "Name": "Accounts Payable"
+          "id": "1",
+          "name": "Accounts Payable"
         }
       ]
     },
     {
-      "Name": "AP Misc PO Header and Detail",
-      "Path": "/frw/ap-misc-po-header-and-detail.md",
-      "Description": "Access and view all Miscellaneous Purchase Order information within Fusion",
-      "Categories": [
+      "name": "AP Misc PO Header and Detail",
+      "path": "/frw/ap-misc-po-header-and-detail.md",
+      "description": "Access and view all Miscellaneous Purchase Order information within Fusion",
+      "categories": [
         {
-          "ID": "1",
-          "Name": "Accounts Payable"
+          "id": "1",
+          "name": "Accounts Payable"
         }
       ]
     },
     {
-      "Name": "Accounting Address Information",
-      "Path": "/frw/accounting-address-information.md",
-      "Description": "Access all addresses stored within the Fusion business system",
-      "Categories": [
+      "name": "Accounting Address Information",
+      "path": "/frw/accounting-address-information.md",
+      "description": "Access all addresses stored within the Fusion business system",
+      "categories": [
         {
-          "ID": "2",
-          "Name": "Accounting Other"
+          "id": "2",
+          "name": "Accounting Other"
         }
       ]
     }
