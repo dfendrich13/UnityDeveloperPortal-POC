@@ -43,10 +43,6 @@ function GetFilesFromRepo {
     }
 }
 
-function Clear-WhiteSpace ($Text) {
-    "$($Text -replace "(`t|`n|`r)"," " -replace "\s+"," ")".Trim()
-}
-
 function CreateFrwJson {
     param (
         [string] $MdDir,
@@ -81,12 +77,12 @@ function CreateFrwJson {
         }
 
         $newJson = @{
-            "name" = $title
-            "description" = $description
-            "categories" = @(
+            name = $title
+            description = $description
+            categories = @(
                 @{
-                    "id" = $catId
-                    "name" = $category
+                    id = $catId
+                    name = $category
                 }
             )
         }
@@ -95,9 +91,8 @@ function CreateFrwJson {
         $json.Add( ($newJson | ConvertTo-Json -Depth 10) )
  
     }
-
-    $json = Clear-WhiteSpace -Text $json
-    $json | ConvertTo-Json -Depth 100 | Out-File $JsonPath
+    
+    ("[" + ($json -join ",") + "]") | Out-File $JsonPath
 
 }
 
