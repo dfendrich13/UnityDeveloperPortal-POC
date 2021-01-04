@@ -5,61 +5,100 @@
       "categories": [
         {
           "id": 1,
+          "name": null
+        }
+      ],
+      "path": "frw\\account-allocation.md",
+      "description": null,
+      "name": null
+    },
+    {
+      "categories": [
+        {
+          "id": 0,
+          "name": null
+        }
+      ],
+      "path": "frw\\accounting-address-information.md",
+      "description": null,
+      "name": null
+    },
+    {
+      "categories": [
+        {
+          "id": 2,
           "name": "Accounting Other"
         }
       ],
+      "path": "frw\\accounting-other-address.md",
       "description": "Access all addresses stored within the Fusion business system",
       "name": "Accounting Address Information"
     },
     {
       "categories": [
         {
-          "id": 0,
+          "id": 1,
           "name": "Accounting Other"
         }
       ],
+      "path": "frw\\accounting-other-check-register.md",
       "description": " Return all checks that have been issued in the Fusion Business System",
       "name": "Check Register"
     },
     {
       "categories": [
         {
-          "id": 0,
+          "id": 1,
           "name": "Accounting Other"
         }
       ],
+      "path": "frw\\accounting-other-comments.md",
       "description": "Access the comments from the Comments Tabs located on multiple forms within Fusion",
       "name": "Accounting Comments"
     },
     {
       "categories": [
         {
-          "id": 0,
+          "id": 1,
           "name": "Accounting Other"
         }
       ],
+      "path": "frw\\accounting-other-fixed-assets.md",
       "description": "Display all fixed asset file information from the Fusion business system",
       "name": "Fixed Assets"
     },
     {
       "categories": [
         {
-          "id": 0,
+          "id": 1,
           "name": "Accounting Other"
         }
       ],
+      "path": "frw\\accounting-other-salesperson-commission.md",
       "description": "Access to the parts and service salesperson commission records ",
       "name": "Salesperson Commission"
     },
     {
       "categories": [
         {
-          "id": 2,
+          "id": 3,
           "name": "Accounts Payable"
         }
       ],
+      "path": "frw\\accounting-period.md",
       "description": "  Allow the user to query the status of an accounting posting period.",
       "name": "Accounting Period"
+    },
+    {
+      "categories": [
+        {
+          "id": 4,
+          "name": "Accounting General Ledger"
+        }
+      ],
+      "path": "frw\\agl-account-allocation.md",
+      "description": "Display the allocation tables specified in Fusion, along with the allocation breakdown for each by Branch/Department and the list of breakdown accounts specified in the setup form of the Allocation Table",
+      "name": "Account Allocation"
     },
     {
       "categories": [
@@ -68,88 +107,108 @@
           "name": "Accounting General Ledger"
         }
       ],
-      "description": "Display the allocation tables specified in Fusion, along with the allocation breakdown for each by Branch/Department and the list of breakdown accounts specified in the setup form of the Allocation Table",
-      "name": "Account Allocation"
-    },
-    {
-      "categories": [
-        {
-          "id": 2,
-          "name": "Accounting General Ledger"
-        }
-      ],
+      "path": "frw\\agl-balance.md",
       "description": "Display the current year, the previous 2 years and next 2 years for a max total of 5 years of data.",
       "name": "General Ledger Balance"
     },
     {
       "categories": [
         {
-          "id": 2,
+          "id": 3,
           "name": "Accounting General Ledger"
         }
       ],
+      "path": "frw\\agl-chart-of-accounts.md",
       "description": "Display a listing of all general ledger chart of accounts and their sub category structure down to 6 levels.",
       "name": "Chart of Accounts"
     },
     {
       "categories": [
         {
-          "id": 2,
+          "id": 3,
           "name": "Accounting General Ledger"
         }
       ],
+      "path": "frw\\agl-transaction.md",
       "description": "Display all GL detail transactions in the Fusion business system.",
       "name": "General Ledger Transaction"
     },
     {
       "categories": [
         {
-          "id": 1,
+          "id": 2,
           "name": "Accounts Payable"
         }
       ],
+      "path": "frw\\ap--vendor.md",
       "description": "Access all accounts payable vendor information from the Fusion business system",
       "name": "AP Vendor"
     },
     {
       "categories": [
         {
-          "id": 1,
+          "id": 2,
           "name": "Accounts Payable"
         }
       ],
+      "path": "frw\\ap-detail.md",
       "description": "Access to all accounts payable invoice information.",
       "name": "Accounts Payable Detail"
     },
     {
       "categories": [
         {
-          "id": 1,
+          "id": 2,
           "name": "Accounts Payable"
         }
       ],
+      "path": "frw\\ap-gl-detail.md",
       "description": "Access to all general ledger detail of accounts payable invoices.",
       "name": "Accounts Payable General Ledger Detail"
     },
     {
       "categories": [
         {
-          "id": 1,
+          "id": 2,
           "name": "Accounts Payable"
         }
       ],
+      "path": "frw\\ap-misc-po-header-and-detail.md",
+      "description": "Access to all general ledger detail of accounts payable invoices.",
+      "name": "Accounts Payable General Ledger Detail"
+    },
+    {
+      "categories": [
+        {
+          "id": 2,
+          "name": "Accounts Payable"
+        }
+      ],
+      "path": "frw\\ap-misc-po.md",
       "description": "Access and view all Miscellaneous Purchase Order information within Fusion",
       "name": "AP Misc PO Header and Detail"
     },
     {
       "categories": [
         {
-          "id": 1,
+          "id": 2,
           "name": "Accounts Payable"
         }
       ],
+      "path": "frw\\ap-notes.md",
       "description": "Access all detail information, return unit and control numbers for all payable notes within the system",
       "name": "AP Notes"
+    },
+    {
+      "categories": [
+        {
+          "id": 5,
+          "name": "Account Recievables"
+        }
+      ],
+      "path": "frw\\ar-customer-misc-prompt.md",
+      "description": "Access to all customer information within the Customer program ",
+      "name": "Accounts Receivable Customer Misc Prompt"
     },
     {
       "categories": [
@@ -158,48 +217,53 @@
           "name": "Account Recievables"
         }
       ],
-      "description": "Access to all customer information within the Customer program ",
-      "name": "Accounts Receivable Customer Misc Prompt"
-    },
-    {
-      "categories": [
-        {
-          "id": 3,
-          "name": "Account Recievables"
-        }
-      ],
+      "path": "frw\\ar-customer.md",
       "description": "Access to all customer information within the Customer program ",
       "name": "Accounts Receivable Customer"
     },
     {
       "categories": [
         {
-          "id": 5,
+          "id": 6,
           "name": "Account Recievables "
         }
       ],
+      "path": "frw\\ar-detail.md",
       "description": "Access the detail information for all open (unpaid balance) accounts receivable invoices, unvoided, voided, or reopened, along with all unapplied payments.",
       "name": "Accounts Receivable Details"
     },
     {
       "categories": [
         {
-          "id": 3,
+          "id": 4,
           "name": "Account Recievables"
         }
       ],
+      "path": "frw\\ar-invoice-summary-detail.md",
       "description": "Ddisplays the detail items on all invoiced and/or voided repair orders, parts orders, LR contracts, finance charges, deals, fuel invoices, and adjustment invoices.",
       "name": "Invoice Sales Summary Detail"
     },
     {
       "categories": [
         {
-          "id": 3,
+          "id": 4,
           "name": "Account Recievables"
         }
       ],
+      "path": "frw\\ar-invoice-summary.md",
       "description": "Displays the summarys of all invoices and/or orders, parts orders, invoices, deals, contracts.",
       "name": "Invoice Sales Summary"
+    },
+    {
+      "categories": [
+        {
+          "id": 7,
+          "name": "Helper APIs"
+        }
+      ],
+      "path": "frw\\branch-and-dept.md",
+      "description": "  Allow the user to query branch and department details",
+      "name": "Branch and Department (Helper)"
     },
     {
       "categories": [
@@ -208,48 +272,53 @@
           "name": "Helper APIs"
         }
       ],
-      "description": "  Allow the user to query branch and department details",
-      "name": "Branch and Department (Helper)"
-    },
-    {
-      "categories": [
-        {
-          "id": 5,
-          "name": "Helper APIs"
-        }
-      ],
+      "path": "frw\\branch-details.md",
       "description": "  Allow the user to query branch details",
       "name": "Branch Details (Helper)"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Parts"
         }
       ],
+      "path": "frw\\customer-core-right-to-return.md",
       "description": "Customer Core Right to Return program within the Fusion business system",
       "name": "Parts Customer Core Right To Return"
     },
     {
       "categories": [
         {
-          "id": 5,
+          "id": 6,
           "name": "Helper APIs"
         }
       ],
+      "path": "frw\\department-details.md",
       "description": "  Allow the user to query department details",
       "name": "Department (Helper)"
     },
     {
       "categories": [
         {
-          "id": 5,
+          "id": 6,
           "name": "Helper APIs"
         }
       ],
+      "path": "frw\\department-lookup.md",
       "description": "  Allow the user to query department by branch",
       "name": "Department Lookup (Helper)"
+    },
+    {
+      "categories": [
+        {
+          "id": 9,
+          "name": "Lease / Rental"
+        }
+      ],
+      "path": "frw\\lease-rental-billing-detail.md",
+      "description": "Display the detail for all charges associated with a given unit on an LR invoice from the Fusion business system",
+      "name": "Lease Rental Billing History Detail"
     },
     {
       "categories": [
@@ -258,398 +327,438 @@
           "name": "Lease / Rental"
         }
       ],
-      "description": "Display the detail for all charges associated with a given unit on an LR invoice from the Fusion business system",
-      "name": "Lease Rental Billing History Detail"
-    },
-    {
-      "categories": [
-        {
-          "id": 7,
-          "name": "Lease / Rental"
-        }
-      ],
+      "path": "frw\\lease-rental-billing-group.md",
       "description": "Display the name and billing information for each of the lease rental billing groups in the Fusion business system",
       "name": "Lease Rental Billing Group"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-billing-history.md",
       "description": "Display the overall totals and information about a given LR invoice.",
       "name": "Lease Rental Billing History"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-charges.md",
       "description": "Access to lease rental charge information from the Fusion business system",
       "name": "Lease Rental Charges"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-contract-unit-charge.md",
       "description": "Access to return charges attached to lease, rental, or maintenance contracts. ",
       "name": "Lease Rental Contract Unit Charge"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-contract-unit.md",
       "description": "Access all information from a unit on a lease or rental contract from within the Fusion business system",
       "name": "Lease - Rental Contract Unit"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-contract.md",
       "description": "Access all customer insurance information from the Fusion business system",
       "name": "Lease - Rental Contract"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-customer-insurance.md",
       "description": "Access all customer insurance information from the Fusion business system.",
       "name": "Lease Rental Customer Insurance"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-customer-rate-detail.md",
       "description": "Detail information for lease rental rate overrides that have been setup in the Fusion business system",
       "name": "Lease - Rental Customer Rate Detail"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-customer-rate-header.md",
       "description": "Header information for lease rental rate overrides that have been setup in the Fusion business system",
       "name": "Lease - Rental Customer Rate Header"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-driver-info.md",
       "description": "Displays the Driver information as seen in the Driver Information application in Fusion.",
       "name": "Lease Rental Driver Info"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-orig.md",
       "description": "Permit and license information for each of the lease rental permits or licenses in the DMS",
       "name": "Lease - Rental Permit and License"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-unit-billing-history.md",
       "description": "Access the lease rental billing history information for each unit on a given LR invoice from the Fusion business system",
       "name": "Lease Rental Unit Billing History"
     },
     {
       "categories": [
         {
-          "id": 7,
+          "id": 8,
           "name": "Lease / Rental"
         }
       ],
+      "path": "frw\\lease-rental-unit.md",
       "description": "Access all all lease or rental unit information",
       "name": "Lease - Rental Units"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-alternative-bin-locations.md",
       "description": " Displays the alternate bin associated with a part record, if one exists.",
       "name": "Parts Alternate Bin Locations"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-branch-inventory-usage.md",
       "description": " Display usage of a given parts inventory detail record",
       "name": "Parts Branch Inventory Usage"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-committed.md",
       "description": "Display all parts that have been committed on parts order, repair orders, and inter-branch orders",
       "name": "Parts Committed"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-customer-backorders.md",
       "description": "Display all parts that are backordered on a parts order or repair order",
       "name": "Parts Customer Backorders"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-customer-return.md",
       "description": "Access a list of parts and miscellaneous charges from invoiced parts orders, repair orders, or 3rd party converted data for a customer.",
       "name": "Parts Customer Purchase and Return"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-fuel-ticket.md",
       "description": "Access to display fuel ticket summary information for open and invoiced fuel tickets, as well as fuel tickets that are included on LR Contract invoices.",
       "name": "Parts Fuel Ticket and Detail"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-fuel.md",
       "description": "Access to display all fuel invoices",
       "name": "Fuel Invoice Summary"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-inventory-physical-inventory.md",
       "description": " Access to physical inventory available within the Fusion system",
       "name": "Parts Physical Inventory"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-inventory-receiving-detail.md",
       "description": "Provides detailed information related to parts received against a purchase order.",
       "name": "Parts Inventory Receiving Detail"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-inventory-usage.md",
       "description": " Access to usage of a given parts inventory detail record.",
       "name": "Parts Inventory Usage"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-inventory-yearly-usage.md",
       "description": " Access to display parts inventory picks and sales by month for each year in which the given part has had picks or sales.",
       "name": "Parts Inventory Yearly Usage"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-inventory.md",
       "description": " Access to a concise view of all branch specific parts inventory records",
       "name": "Parts Inventory"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-kit-assembly-detail.md",
       "description": "Access to various Parts related endpoints",
       "name": "Parts Kit Assembly Detail"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-lost-sales.md",
       "description": "Display all parts lost sale records in the Fusion business system",
       "name": "Parts Lost Sales"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-messages.md",
       "description": "Display a list of all parts messages set up",
       "name": "Parts Messages"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-order-detail.md",
       "description": "Access to all of the detail records on open, invoiced, and/or voided parts orders.",
       "name": "Parts Order Detail"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-order.md",
       "description": "Access to Parts Order within Fusion",
       "name": "Parts Order"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-physical-inventory-detail.md",
       "description": " Access to physical inventory detail information within Fusion",
       "name": "Parts Physical Inventory Detail"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-po-details.md",
       "description": "Access to Purchase Order Detail within Fusion",
       "name": "Parts Purchase Order Detail"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-purchase-order.md",
       "description": "Access to Purchase Order within Fusion",
       "name": "Parts Purchase Order"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-supplier-core-rtr.md",
       "description": "Display all supplier core right to return records",
       "name": "Parts Supplier Core RTR"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-supplier.md",
       "description": "Access all suppliers that are set up within the Fusion business system",
       "name": "Parts Supplier"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-transactions.md",
       "description": "Display all parts transaction records from the Fusion business system",
       "name": "Parts Transactions"
     },
     {
       "categories": [
         {
-          "id": 6,
+          "id": 7,
           "name": "Parts"
         }
       ],
+      "path": "frw\\parts-vendor-rebates.md",
       "description": " Display all vendor rebate information",
       "name": "Parts Vendor Rebates"
     },
     {
       "categories": [
         {
-          "id": 1,
+          "id": 2,
           "name": "Accounts Payable"
         }
       ],
+      "path": "frw\\posting-reference-status.md",
       "description": "  Allow the user to query the status of a posting reference, including whether or not the P/O has been received, if it has been referenced on an A/P invoice, and if the A/P Invoice has been posted.",
       "name": "Posting Reference Status"
     },
     {
       "categories": [
         {
-          "id": 5,
+          "id": 6,
           "name": "Helper APIs"
         }
       ],
+      "path": "frw\\quick-lists.md",
       "description": "  Allow the user to pull back Quick List options from Fusion",
       "name": "Quick Lists (Helper)"
+    },
+    {
+      "categories": [
+        {
+          "id": 10,
+          "name": "Repair Order"
+        }
+      ],
+      "path": "frw\\repair-order-header.md",
+      "description": "Access all information about Open and Invoiced Repair Orders.  This includes the header, task, part, labor, and miscellaneous charge detail items on a given repair order",
+      "name": "Repair Order Header"
     },
     {
       "categories": [
@@ -658,28 +767,31 @@
           "name": "Repair Order"
         }
       ],
-      "description": "Access all information about Open and Invoiced Repair Orders.  This includes the header, task, part, labor, and miscellaneous charge detail items on a given repair order",
-      "name": "Repair Order Header"
-    },
-    {
-      "categories": [
-        {
-          "id": 8,
-          "name": "Repair Order"
-        }
-      ],
+      "path": "frw\\repair-order-task.md",
       "description": "Access to show all repair order task information",
       "name": "Repair Order Task"
     },
     {
       "categories": [
         {
-          "id": 8,
+          "id": 9,
           "name": "Repair Order"
         }
       ],
+      "path": "frw\\repair-order.md",
       "description": "Access all detail information about Open and Invoiced Repair Orders. ",
       "name": "Repair Order Detail"
+    },
+    {
+      "categories": [
+        {
+          "id": 11,
+          "name": "Sales"
+        }
+      ],
+      "path": "frw\\sales-deal-comission.md",
+      "description": "Access the commission information by salesperson and stock number for a given deal packet invoice.",
+      "name": "Deal Comission"
     },
     {
       "categories": [
@@ -688,88 +800,97 @@
           "name": "Sales"
         }
       ],
-      "description": "Access the commission information by salesperson and stock number for a given deal packet invoice.",
-      "name": "Deal Comission"
-    },
-    {
-      "categories": [
-        {
-          "id": 9,
-          "name": "Sales"
-        }
-      ],
+      "path": "frw\\sales-deal-header.md",
       "description": "Access all local purchase orders and their associated unit information",
       "name": "Deal Header"
     },
     {
       "categories": [
         {
-          "id": 9,
+          "id": 10,
           "name": "Sales"
         }
       ],
+      "path": "frw\\sales-deal-packet.md",
       "description": "Access all local purchase orders and their associated unit information",
       "name": "Deal Packet"
     },
     {
       "categories": [
         {
-          "id": 9,
+          "id": 10,
           "name": "Sales"
         }
       ],
+      "path": "frw\\sales-deal.md",
       "description": "Access all detail items on all unit sales deals.",
       "name": "Deal Detail"
     },
     {
       "categories": [
         {
-          "id": 9,
+          "id": 10,
           "name": "Sales"
         }
       ],
+      "path": "frw\\sales-lpo.md",
       "description": "Access all local purchase orders and their associated unit information",
       "name": "Local Purchase Order"
     },
     {
       "categories": [
         {
-          "id": 9,
+          "id": 10,
           "name": "Sales"
         }
       ],
+      "path": "frw\\sales-unit-flooring.md",
       "description": "Access to the unit flooring information for a given unit occurrence from the Fusion business system.",
       "name": "Sales Unit Flooring"
     },
     {
       "categories": [
         {
-          "id": 9,
+          "id": 10,
           "name": "Sales"
         }
       ],
+      "path": "frw\\sales-unit-po-header.md",
       "description": "Access to the header information on unit purchase orders. Join to Unit Purchase Order Detail to view the detail level information.",
       "name": "Unit Purchase Order Header"
     },
     {
       "categories": [
         {
-          "id": 9,
+          "id": 10,
           "name": "Sales"
         }
       ],
+      "path": "frw\\sales-unit-purchase-order.md",
       "description": "Access to the unit information detail on unit purchase orders",
       "name": "Unit Purchase Order Detail"
     },
     {
       "categories": [
         {
-          "id": 9,
+          "id": 10,
           "name": "Sales"
         }
       ],
+      "path": "frw\\sales-unit.md",
       "description": "Access to all sales unit records and their characteristics",
       "name": "Sales Unit"
+    },
+    {
+      "categories": [
+        {
+          "id": 12,
+          "name": "Service Technician"
+        }
+      ],
+      "path": "frw\\service-technician-certification.md",
+      "description": "Access to view all technician certificate information",
+      "name": "Service Technician Certification"
     },
     {
       "categories": [
@@ -778,38 +899,42 @@
           "name": "Service Technician"
         }
       ],
-      "description": "Access to view all technician certificate information",
-      "name": "Service Technician Certification"
-    },
-    {
-      "categories": [
-        {
-          "id": 10,
-          "name": "Service Technician"
-        }
-      ],
+      "path": "frw\\service-technician-performance.md",
       "description": "Access to display technician performance by repair group.",
       "name": "Service Technician Performance"
     },
     {
       "categories": [
         {
-          "id": 10,
+          "id": 11,
           "name": "Service Technician"
         }
       ],
+      "path": "frw\\service-technician-productivity.md",
       "description": "Access to view how productive a technician has been, summarized by month.",
       "name": "Service Technician Productivity"
     },
     {
       "categories": [
         {
-          "id": 10,
+          "id": 11,
           "name": "Service Technician"
         }
       ],
+      "path": "frw\\service-technician-time.md",
       "description": "Access to display all completed technician time records",
       "name": "Service Technician Time"
+    },
+    {
+      "categories": [
+        {
+          "id": 13,
+          "name": "Service"
+        }
+      ],
+      "path": "frw\\service-unit-components.md",
+      "description": "Access to all Unit Component information for a given unit.",
+      "name": "Service Unit Components"
     },
     {
       "categories": [
@@ -818,66 +943,62 @@
           "name": "Service"
         }
       ],
-      "description": "Access to all Unit Component information for a given unit.",
-      "name": "Service Unit Components"
-    },
-    {
-      "categories": [
-        {
-          "id": 11,
-          "name": "Service"
-        }
-      ],
+      "path": "frw\\service-unit-owning-customer.md",
       "description": "Access to the owning customer(s) of all Service units",
       "name": "Service Unit Owning Customer"
     },
     {
       "categories": [
         {
-          "id": 11,
+          "id": 12,
           "name": "Service"
         }
       ],
+      "path": "frw\\service-unit.md",
       "description": "Access to all unit master detail information.",
       "name": "Service Unit Master Detail"
     },
     {
       "categories": [
         {
-          "id": 11,
+          "id": 12,
           "name": "Service"
         }
       ],
+      "path": "frw\\service.md",
       "description": "Used to display a list of all deferred repairs from the Fusion business system",
       "name": "Service"
     },
     {
       "categories": [
         {
-          "id": 10,
+          "id": 11,
           "name": "Service Technician"
         }
       ],
+      "path": "frw\\technician.md",
       "description": "Access to view all service technician information",
       "name": "Service Technician"
     },
     {
       "categories": [
         {
-          "id": 5,
+          "id": 6,
           "name": "Helper APIs"
         }
       ],
+      "path": "frw\\velocity-codes.md",
       "description": "Allow the user to pull back Velocity Codes, to be used in support of the Customer Special Pricing API",
       "name": "Velocity Codes"
     },
     {
       "categories": [
         {
-          "id": 13,
+          "id": 14,
           "name": "Users"
         }
       ],
+      "path": "frw\\view-users.md",
       "description": "Access to view all users by Branch",
       "name": "View Users"
     }
