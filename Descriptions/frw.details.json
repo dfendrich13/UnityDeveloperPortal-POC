@@ -4,28 +4,6 @@
     {
       "categories": [
         {
-          "id": 1,
-          "name": null
-        }
-      ],
-      "path": "frw/account-allocation.md",
-      "description": null,
-      "name": null
-    },
-    {
-      "categories": [
-        {
-          "id": 0,
-          "name": null
-        }
-      ],
-      "path": "frw/accounting-address-information.md",
-      "description": null,
-      "name": null
-    },
-    {
-      "categories": [
-        {
           "id": 2,
           "name": "Accounting Other"
         }
