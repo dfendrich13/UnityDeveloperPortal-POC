@@ -7,7 +7,7 @@ This information can be found in the Notes Payable application within Fusion.
 ```
 /frw/NotesPayable
 ``` 
----
+ <hr>
 Field Details...
 
 | **SQL Field Name**   | **Column Description**                                                                                                                                      |
@@ -18,7 +18,7 @@ Field Details...
 | BalloonMethod        | This field displays whether or not a balloon payment is the final payment or a separate payment.                                                            |
 | Branch               | This field displays the branch code associated with the given note.                                                                                         |
 | BranchName           | This field displays the name of the branch associated with the given note.                                                                                  |
-| DaysinYear           | This field displays the Days in Year speficied for the note.  Potential values are 360 or Calendar.                                                         |
+| DaysinYear           | This field displays the Days in Year speficied for the note.  Potential values are 360 or Calendar.                                                         |
 | Description          | This field displays the description of a given note.                                                                                                        |
 | FirstPaymentDate     | This field displays the date on which the first payment is due for the given note.                                                                          |
 | BillingRateFrequency | This field displays how often a note is billed.                                                                                                             |
@@ -33,8 +33,8 @@ Field Details...
 | NextPaymentDate      | This field displays the date on which the next payment is due for the given note.                                                                           |
 | NoteDate             | This field displays the date on which the note was issued.                                                                                                  |
 | NoteNumber           | This field displays the note number of the given note.                                                                                                      |
-| NoteType             | This  field displays the given notes type (Fixed, Fixed Principle, Variable).                                                                               |
-| NotesPayableGroup    | This field displays the notes payable group attached to the given note.  The group assigned to the note determines the accounting when payments are posted. |
+| NoteType             | This  field displays the given notes type (Fixed, Fixed Principle, Variable).                                                                               |
+| NotesPayableGroup    | This field displays the notes payable group attached to the given note.  The group assigned to the note determines the accounting when payments are posted. |
 | PaidInterest         | This field displays the total amount of interest paid on a note.                                                                                            |
 | PaidOff              | This field displays whether or not the given note is paid off.                                                                                              |
 | PaidPrincipal        | This field displays the value paid for principal on a note.                                                                                                 |
@@ -60,7 +60,7 @@ system.
 ```
 /frw/NotesPayableDetail
 ``` 
- ---
+ <hr>
 Field Details...
 
 | **SQL Field Name**        | **Column Description**                                                                                                                |
